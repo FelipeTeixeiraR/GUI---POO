@@ -57,7 +57,7 @@ public class GUI {
         JButton btn1 = new JButton("Confirmar");
         btn1.setBounds(100, 180, 120, 30);
         btn1.setFont(new Font("Arial", Font.BOLD, 14));
-        btn1.setBackground(new Color(97, 219, 44));
+        btn1.setBackground(new Color(70, 130, 180));
         btn1.setForeground(Color.WHITE);
         btn1.setFocusPainted(false);
         btn1.setBorder(BorderFactory.createEmptyBorder());
@@ -179,3 +179,4 @@ public class GUI {
         return nomes;
     }
 }
+
